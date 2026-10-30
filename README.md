@@ -1,7 +1,8 @@
 # Olá, eu sou a Julliana Furtado! 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNINTER) e Inteligência Artificial (FIAP).
-📍 Rio de Janeiro, Brasil | 💼 Em busca de oportunidades de estágio.
+📍 Rio de Janeiro, Brasil.
+💼 Em busca de oportunidades de estágio.
 
 ---
 
