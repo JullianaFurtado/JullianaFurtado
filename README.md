@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (UNINTER) e de Inteligência
 ## Projetos
 
 - **[Pulso](https://github.com/JullianaFurtado/pulso-app)**: aplicativo Android em Kotlin para acompanhar hábitos de saúde (água, refeições e atividade física).
-- **[FarmTech Python](https://github.com/JullianaFurtado/FarmTech-Python-Gestao-Agronegocio)**: sistema em Python de gestão do agronegócio, projeto em grupo da FIAP. Minha parte: manipulação de arquivos JSON e TXT.
+- **[FarmTech Python](https://github.com/JullianaFurtado/FarmTech-Python-Gestao-Agronegocio)**: sistema em Python de gestão do agronegócio, projeto em grupo da FIAP. 
 
 ## Tecnologias
 
