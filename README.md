@@ -1,6 +1,6 @@
 # Olá, eu sou a Julliana
 
-Estudante de Análise e Desenvolvimento de Sistemas (UNINTER) e de Inteligência Artificial (FIAP), em busca de estágio em IA.
+Estudante de Análise e Desenvolvimento de Sistemas (UNINTER) e de Inteligência Artificial (FIAP).
 
 ## Projetos
 
