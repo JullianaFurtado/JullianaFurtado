@@ -5,10 +5,12 @@
 
 ---
 
-### 🚀 Atualmente focado em:
-- 🤖 Aprendizado de Máquina (Machine Learning) & Análise de Dados
-- 📱 Desenvolvimento Android com Kotlin
-- 🗄️ Modelagem e otimização de Bancos de Dados (SQL)
+### 🎯 Foco de Atuação & Estudos
+Estou totalmente dedicada ao ecossistema de Inteligência Artificial, construindo soluções práticas e aprofundando conhecimentos em:
+- 🧠 **Machine Learning & Deep Learning** (Modelos preditivos, classificação e redes neurais)
+- 📊 **Análise, Tratamento & Visualização de Dados** com Python (Pandas, NumPy, Scikit-Learn)
+- 🗄️ **Engenharia de Dados Básica & SQL** para estruturação e consulta de dados
+- 🐍 **Automação & Scripts** com Python para pipelines de IA
 
 ---
 
