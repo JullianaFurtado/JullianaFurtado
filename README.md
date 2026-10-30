@@ -4,6 +4,12 @@
 📍 Rio de Janeiro, Brasil | 💼 Em busca de oportunidades de estágio.
 
 ---
+### 🎓 Formação Acadêmica
+
+- 🎓 **Inteligência Artificial** — FIAP *(Ago/2026 – Ago/2028)*
+- 🎓 **Análise e Desenvolvimento de Sistemas** — UNINTER *(Abr/2025 – Ago/2027)*
+
+---
 
 ### 🎯 Foco de Atuação & Estudos
 Estou totalmente dedicada ao ecossistema de Inteligência Artificial, construindo soluções práticas e aprofundando conhecimentos em:
