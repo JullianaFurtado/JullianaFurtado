@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou a Julliana
 
-<!--
-**JullianaFurtado/JullianaFurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas (UNINTER) e de Inteligência Artificial (FIAP), em busca de estágio em IA.
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Pulso](https://github.com/JullianaFurtado/pulso-app)**: aplicativo Android em Kotlin para acompanhar hábitos de saúde (água, refeições e atividade física).
+- **[FarmTech Python](https://github.com/JullianaFurtado/FarmTech-Python-Gestao-Agronegocio)**: sistema em Python de gestão do agronegócio, projeto em grupo da FIAP. Minha parte: manipulação de arquivos JSON e TXT.
+
+## Tecnologias
+
+Python · Kotlin · SQL · JavaScript · HTML · CSS · Git · GitHub
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/jullianafurtado)
