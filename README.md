@@ -22,10 +22,9 @@
 
 ### 📊 Estatísticas
 <p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JullianaFurtado&show_icons=true&theme=radium&include_all_commits=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JullianaFurtado&layout=compact&theme=radium" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JullianaFurtado&show_icons=true&theme=radium&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JullianaFurtado&layout=compact&theme=radium" />
 </p>
-
 ---
 
 ### 📬 Vamos nos conectar!
